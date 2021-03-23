@@ -1,0 +1,8 @@
+1,Doctor1,Active
+2,Doctor2,Active
+3,Doctor3,Dective
+4,Doctor4,Active
+5,Doctor5,Dective
+6,Doctor6,Dective
+7,Doctor7,Active
+8,Doctor8,Active
